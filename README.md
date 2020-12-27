@@ -19,4 +19,3 @@ URL: https://www.bootstrapcdn.com/
 - Realizar a instração da extensão no browser Google Chrome.
 - Sem a extensão - online no browser, não carrega os dados.
 
-URL: https://chrome.google.com/webstore/detail/moesif-orign-cors-changer/digfbfaphojjndkpccljibejjbppifbc/related
